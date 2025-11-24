@@ -6,6 +6,19 @@ format:
     toc-depth: 2
 ---
 
+## Why Patient and Public Involvement and Engagement (PPIE) Matters
+
+Patient and Public Involvement and Engagement (PPIE) ensures that research is **relevant, transparent, and meaningful** to the people it ultimately aims to help. 
+
+Through PPIE activities, members of the public can:
+
+- Share **their perspectives** on the importance and acceptability of the research.
+- Help **refine study design** and priorities.
+- Improve **communication** of scientific findings in plain language.
+- Ensure that research outcomes are **accessible and useful** to families and clinicians.
+
+Your feedback will help shape how we design and communicate this research — from what questions we ask to how we share results. 
+
 ## Purpose of PPIE 
 
 This project aims to **co-design** and refine a research programme that uses **cell-free RNA (cfRNA) biomarkers** in maternal blood to predict placenta-related pregnancy complications such as preeclampsia and fetal growth restriction. Patient and public involvement will ensure that the research is shaped by the experiences, needs, and priorities of women and families, and that study materials are clear, acceptable, and sensitive to the challenges of complicated pregnancies.
@@ -18,11 +31,13 @@ This project aims to **co-design** and refine a research programme that uses **c
 - Members of existing PPI panels from my host institution and local NHS Trust.
 
 ## Proposed activities
+
 - Initial workshop (n≈8–10 participants): To introduce the research concept, discuss acceptability of cfRNA testing, and co-design participant-facing materials (plain language summaries, recruitment leaflets, consent forms).
 - Follow-up online survey (n≈30 participants): To gather wider perspectives on clarity, acceptability, and perceived benefits/risks of cfRNA-based prediction.
 - Ongoing involvement: Interested participants will be invited to join a PPIE advisory group, meeting biannually to provide feedback on study progress, dissemination plans, and public engagement activities.
 
 ## Support for participants
+
 - Reimbursement of expenses and recognition of time, in line with NIHR guidance.
 - Online participation to improve accessibility.
 - Sensitive facilitation and signposting to support resources (given potential for distress when discussing pregnancy complications).

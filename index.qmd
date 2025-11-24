@@ -1,38 +1,66 @@
 ---
-title: "Public and Patient Involvement and Engagement (PPIE)"
-subtitle: "Understanding Placenta-related Pregnancy Complications through Cell-free RNA Research"
+title: "Understanding Placenta-related Pregnancy Complications"
+subtitle: "A Public and Patient Involvement and Engagement (PPIE) activity"
 ---
 
-# Welcome to My PPIE Activity Website
-This site is part of my preparation for the **NIHR Postdoctoral Fellowship** application.
-My proposed research aims to improve pregnancy outcomes by identifying **cell-free RNA (cfRNA) biomarkers** in maternal blood that can predict **placenta-related complications**, such as **preeclampsia** and **fetal growth restriction**.
+Hello, my name is Sung. I am a researcher at Cambridge university interested in understanding how to predict pregnancy complications. I am planning a study and need the help of women and birthing people to shape the project. 
 
-## Understanding Pregnancy Health Through Research
+The research will focus on finding markers in blood that can predict placenta-related pregnancy complications, such as **preeclampsia** and **fetal growth restriction**.
 
-Pregnancy is an incredible journey, but for some families, it can come with serious complications that affect both mother and baby.  
-My research focuses on understanding how **molecules called cell-free RNAs (cfRNAs)** circulating in the mother's blood can help us **predict pregnancy complications early**, before symptoms appear.
+The blood markers that I am investigating is called cell-free RNAs (cfRNAs) and I found that their levels are elevated in pregnancies complicated by preeclampsia with fetal growth restriction based on [my earlier study](https://www.nature.com/articles/s41467-025-61931-7).
 
-I recently published our latest findings in *Nature Communications (2025)*:  
-[**"Raised Leptin and Pappalysin2 cell-free RNAs are the hallmarks of pregnancies complicated by preeclampsia with fetal growth restriction."**](https://www.nature.com/articles/s41467-025-61931-7)
+## 🔍 What Is This Research About?
 
-This fellowship project aims to build upon that work and develop a cfRNA-based tool to identify high-risk pregnancies.
+I am developing a simple blood test to spot pregnancy complications—such as pre-eclampsia and fetal growth restriction—earlier and more accurately than current checks.
 
----
+## 🧬 What Are Cell-Free RNAs?
 
-## Why Patient and Public Involvement and Engagement (PPIE) Matters
+cfRNAs are tiny pieces of genetic material that come from the mum and/or the baby, and float in the mother’s bloodstream, giving a real-time picture of how the pregnancy is developing.
 
-Patient and Public Involvement and Engagement (PPIE) ensures that research is **relevant, transparent, and meaningful** to the people it ultimately aims to help. 
+## 🧪 How Will I Measure Them?
 
-Through PPIE activities, members of the public can:
+```{=html}
+<div class="callout info">
+  <div style="display:flex;gap:30px;flex-wrap:wrap">
+    <div style="flex:1;min-width:200px;">
+      <svg width="80" height="80" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
+        <rect x="18" y="8" width="28" height="48" rx="6" fill="#F4F8FF" stroke="#2B6CB0" stroke-width="1.6"/>
+        <rect x="24" y="12" width="16" height="28" rx="4" fill="#FFF"/>
+        <rect x="24" y="40" width="16" height="8" rx="2" fill="#E53E3E" />
+      </svg>
+      <p><a href="https://en.wikipedia.org/wiki/Digital_polymerase_chain_reaction"><strong>Digital PCR:</strong></a> very sensitive; detects tiny RNA amounts</p>
+    </div>
+    <div style="flex:1;min-width:200px;">
+      <svg width="80" height="80" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
+        <rect x="18" y="8" width="28" height="48" rx="6" fill="#FFF7ED" stroke="#DD6B20" stroke-width="1.6"/>
+        <rect x="24" y="12" width="16" height="28" rx="4" fill="#FFF"/>
+      </svg>
+      <p><a href="https://nanostring.com/products/ncounter-analysis-system/ncounter-systems-overview/"><strong>NanoString nCounter:</strong></a> measures many markers at once; reproducible; used in diagnostics</p>
+    </div>
+  </div>
+</div>
+```
 
-- Share **their perspectives** on the importance and acceptability of the research.
-- Help **refine study design** and priorities.
-- Improve **communication** of scientific findings in plain language.
-- Ensure that research outcomes are **accessible and useful** to families and clinicians.
+## 👩‍🍼 Why This Matters
 
-Your feedback will help shape how we design and communicate this research — from what questions we ask to how we share results. 
+Early identification means closer monitoring, personalised care, and better outcomes for mothers and babies
 
----
+## 📅 Workflow
+
+<svg width="100%" height="100" viewBox="0 0 800 80" xmlns="http://www.w3.org/2000/svg">
+  <rect x="10" y="20" width="120" height="40" rx="6" fill="#E6F6FF" stroke="#2B6CB0"/> <text x="70" y="45" font-size="15" text-anchor="middle" fill="#2B6CB0">Discovery</text>
+  <polygon points="140,40 160,30 160,50" fill="#2B6CB0" />
+  <rect x="160" y="20" width="140" height="40" rx="6" fill="#FFF7ED" stroke="#DD6B20"/> <text x="230" y="45" font-size="15" text-anchor="middle" fill="#DD6B20">Assay Development</text>
+  <polygon points="300,40 320,30 320,50" fill="#DD6B20" />
+  <rect x="320" y="20" width="160" height="40" rx="6" fill="#FFF5F7" stroke="#C53069"/> <text x="400" y="45" font-size="15" text-anchor="middle" fill="#C53069">Clinical Validation</text>
+  <polygon points="480,40 500,30 500,50" fill="#C53069" />
+  <rect x="500" y="20" width="200" height="40" rx="6" fill="#F7FFF0" stroke="#48BB78"/> <text x="600" y="45" font-size="15" text-anchor="middle" fill="#48BB78">Implementation & Testing</text>
+</svg>
+<p style="font-size:15px;color:#333;margin-top:15px">High-level workflow from discovery to deployment.</p>
+
+## 🌟 Goal
+
+Create a reliable blood test to identify pregnancies at higher risk early, supporting personalised care and safer outcomes for families.
 
 ## 🎥 Watch Our Webinar
 
@@ -40,14 +68,12 @@ Below is a short webinar-style presentation explaining the project and how you c
 
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/9nts6IFt578" title="PPIE Webinar" frameborder="0" allowfullscreen></iframe>
 
----
-
 ## 🗳️ Take Part in Our PPIE Survey
 
-I would like to invite members of the public, especially parents and expectant mothers, to take part in our **short online survey**.  
+I would like to invite members of public, especially parents and expectant mothers, to take part in our **short online survey**.
 Your opinions will help guide the direction of our work.
 
-👉 **[Click here to take the survey](https://forms.office.com/e/AYFbkgAYEU)**  
+👉 **[Click here to take the survey](https://forms.office.com/e/AYFbkgAYEU)**
 *(or scan the QR code below)*
 
 ![QR code to survey](static/figure/QRCode for Feedback on Research Idea.png){width=400px}
@@ -61,11 +87,9 @@ Your voices and experiences are essential:
 - Respects the **values and concerns** of those directly affected by pregnancy complications.
 - Leads to **better communication** between researchers, clinicians, and families.
 
----
-
 ## Contact
 
-If you have questions or would like to get involved further, please contact me at:  
+If you have questions or would like to get involved further, please contact me at:
 Sung Gong: 📧 **ssg29@cam.ac.uk**
 
 Thank you for your interest and support!

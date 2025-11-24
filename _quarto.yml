@@ -27,7 +27,7 @@ website:
         #- icon: youtube
         #href: webinar.qmd
       - href: plan.qmd
-        text: "PPIE plan"
+        text: "Plan"
       - href: placenta.qmd
         text: "Placental Disease"
     tools:
