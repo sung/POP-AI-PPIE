@@ -5,19 +5,21 @@ subtitle: "A Public and Patient Involvement and Engagement (PPIE) activity"
 
 Hello, my name is Sung. I am a researcher at Cambridge university interested in understanding how to predict pregnancy complications. I am planning a study and need the help of women and birthing people to shape the project. 
 
-The research will focus on finding markers in blood that can predict placenta-related pregnancy complications, such as **preeclampsia** and **fetal growth restriction**.
-
-The blood markers that I am investigating is called cell-free RNAs (cfRNAs) and I found that their levels are elevated in pregnancies complicated by preeclampsia with fetal growth restriction based on [my earlier study](https://www.nature.com/articles/s41467-025-61931-7).
-
 ## 🔍 What Is This Research About?
 
-I am developing a simple blood test to spot pregnancy complications—such as pre-eclampsia and fetal growth restriction—earlier and more accurately than current checks.
+I am developing a simple blood test to spot pregnancy complications—such as [pre-eclampsia](https://www.nhs.uk/conditions/pre-eclampsia/) and [fetal growth restriction](https://www.tommys.org/pregnancy-information/pregnancy-complications/fetal-growth-restriction-intrauterine-growth-restriction)—earlier and more accurately than current checks.
 
-## 🧬 What Are Cell-Free RNAs?
+## 🧬 What Am I Measuring?
 
-cfRNAs are tiny pieces of genetic material that come from the mum and/or the baby, and float in the mother’s bloodstream, giving a real-time picture of how the pregnancy is developing.
+I am meausring molecules called [cell-free RNAs](https://en.wikipedia.org/wiki/Cell-free_RNA) that are tiny pieces of genetic material that come from the mum and/or the baby, and float in the mother’s bloodstream, giving a real-time picture of how the pregnancy is developing.
 
-## 🧪 How Will I Measure Them?
+## 🧪 Why Am I Measuring Them?
+
+[Our recent research](https://www.nature.com/articles/s41467-025-61931-7) found that two cell-free RNAs—Leptin ([***LEP***](https://en.wikipedia.org/wiki/Leptin)) and Pappalysin-2 ([***PAPPA2***](https://en.wikipedia.org/wiki/Pappalysin-2))—are higher in pregnancies with complications.
+
+I now want to check if these markers work well in a new group of pregnant women, using reliable lab technologies.
+
+## 🔧 How Will I Measure Them?
 
 ```{=html}
 <div class="callout info">
@@ -43,7 +45,18 @@ cfRNAs are tiny pieces of genetic material that come from the mum and/or the bab
 
 ## 👩‍🍼 Why This Matters
 
-Early identification means closer monitoring, personalised care, and better outcomes for mothers and babies
+Early identification means closer monitoring, personalised care, and better outcomes for mothers and babies.
+
+## 🤝 How Are Patients and the Public Involved?
+
+Women with lived experience of pregnancy complications help us:
+
+- shape the research questions,
+- review information materials,
+- design how results are shared,
+- ensure the test is acceptable and useful,
+
+Their voices guide the direction of the project.
 
 ## 📅 Workflow
 
@@ -60,7 +73,7 @@ Early identification means closer monitoring, personalised care, and better outc
 
 ## 🌟 Goal
 
-Create a reliable blood test to identify pregnancies at higher risk early, supporting personalised care and safer outcomes for families.
+To develop a simple, reliable blood test that identifies pregnancies at higher risk early enough to make a real difference.
 
 ## 🎥 Watch Our Webinar
 
