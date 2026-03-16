@@ -6,18 +6,6 @@ format:
     toc-depth: 2
 ---
 
-## Plain English Summary 
-
-Pregnancy is an incredible journey, but for some families, it can come with serious complications that affect both mother and baby.
-
-Pregnancy complications like pre-eclampsia (PE) and fetal growth restriction (FGR) can put mothers and babies at serious risk, yet they are often difficult to detect early. Current checks do not identify all women who will develop these problems. Earlier and more accurate tests could help the NHS provide better monitoring and reduce avoidable harm.
-
-This project aims to develop a simple blood test that measures tiny fragments of genetic material called “cell-free RNAs” (cfRNAs). These come from the placenta and give a real-time picture of how the pregnancy is developing. My recent research found two cfRNAs—Leptin (***LEP***) and Pappalysin-2 (***PAPPA2***)—that are higher in pregnancies with PE and FGR. We now need to confirm these findings in a new group of women and test how well they can be measured using practical laboratory methods.
-
-We will compare two technologies: digital PCR, which is extremely sensitive, and the NanoString nCounter, which can measure many markers at once and is already used in some clinical settings. Working with women who have experienced pregnancy complications, midwives, doctors, and NHS labs, we will explore whether this kind of test is accurate, useful, and acceptable.
-
-Our long-term goal is to create an early warning test that helps identify pregnancies at higher risk, so that personalised care and closer monitoring can be offered. This research aims to support safer pregnancies and healthier outcomes for families.
-
 ## What is the Placenta?
 
 The **placenta** is a temporary organ that develops during pregnancy.  

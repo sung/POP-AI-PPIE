@@ -1,47 +1,44 @@
 ---
-title: "Understanding Placenta-related Pregnancy Complications"
+title: "Pregancy Outcome Prediction (POP)-AI:</br>Multi-modal agentic AI systems for precision obstetrics"
 subtitle: "A Public and Patient Involvement and Engagement (PPIE) activity"
 ---
 
-Hello, my name is Sung. I am a researcher at Cambridge university interested in understanding how to predict pregnancy complications. I am planning a study and need the help of women and birthing people to shape the project. 
+Hello, my name is [Sung](https://sung.github.io). I am a researcher at Cambridge university interested in AI/ML and applying to predicting pregnancy complications. I am planning a study and need the help of women and birthing people to shape the project. 
 
 ## 🔍 What Is This Research About?
 
-I am developing a simple blood test to spot pregnancy complications—such as [pre-eclampsia](https://www.nhs.uk/conditions/pre-eclampsia/) and [fetal growth restriction](https://www.tommys.org/pregnancy-information/pregnancy-complications/fetal-growth-restriction-intrauterine-growth-restriction)—earlier and more accurately than current checks.
+This proposed study will look at how we can use advanced computer intelligence to understand the complex biological signals in a mother's body very early in pregnancy. I want to find better ways to predict health issues like [pre-eclampsia](https://www.nhs.uk/conditions/pre-eclampsia/) and [fetal growth restriction](https://www.tommys.org/pregnancy-information/pregnancy-complications/fetal-growth-restriction-intrauterine-growth-restriction) before they become an emergency, giving families peace of mind.
 
-## 🧬 What Am I Measuring?
+## 🔧 What Am I Going to To?
 
-I am meausring molecules called [cell-free RNAs](https://en.wikipedia.org/wiki/Cell-free_RNA) that are tiny pieces of genetic material that come from the mum and/or the baby, and float in the mother’s bloodstream, giving a real-time picture of how the pregnancy is developing.
+I will be developing a smart "team" of AI programs called **POP-AI** that acts as a digital specialist for pregnancy health. It combines different types of biological data—like blood tests and genetics—to give doctors a clear, reasoned explanation of a pregnancy's health status.
 
-## 🧪 Why Am I Measuring Them?
+![POP-AI study design](static/figure/Fig1.POP-AI.design.png){#fig-study-design}
 
-[Our recent research](https://www.nature.com/articles/s41467-025-61931-7) found that two cell-free RNAs—Leptin ([***LEP***](https://en.wikipedia.org/wiki/Leptin)) and Pappalysin-2 ([***PAPPA2***](https://en.wikipedia.org/wiki/Pappalysin-2))—are higher in pregnancies with complications.
+## 📅 Workflow
 
-I now want to check if these markers work well in a new group of pregnant women, using reliable lab technologies.
+::: {#fig-workflow}
+<svg width="100%" height="100" viewBox="0 0 800 80" xmlns="http://www.w3.org/2000/svg">
+  <rect x="10" y="20" width="200" height="40" rx="6" fill="#E6F6FF" stroke="#2B6CB0"/> <text x="110" y="45" font-size="15" text-anchor="middle" fill="#2B6CB0">Discovery (POPS cohort)</text>
+  <polygon points="210,40 220,30 220,50" fill="#2B6CB0" />
+  <rect x="220" y="20" width="140" height="40" rx="6" fill="#FFF7ED" stroke="#DD6B20"/> <text x="290" y="45" font-size="15" text-anchor="middle" fill="#DD6B20">Data Integration</text>
+  <polygon points="360,40 370,30 370,50" fill="#DD6B20" />
+  <rect x="370" y="20" width="160" height="40" rx="6" fill="#FFF5F7" stroke="#C53069"/> <text x="450" y="45" font-size="15" text-anchor="middle" fill="#C53069">POP-AI</text>
+  <polygon points="530,40 540,30 540,50" fill="#C53069" />
+  <rect x="540" y="20" width="200" height="40" rx="6" fill="#F7FFF0" stroke="#48BB78"/> <text x="630" y="45" font-size="15" text-anchor="middle" fill="#48BB78"> Validation (POPS2)</text>
+</svg>
 
-## 🔧 How Will I Measure Them?
+High-level workflow from discovery to deployment
+:::
 
-```{=html}
-<div class="callout info">
-  <div style="display:flex;gap:30px;flex-wrap:wrap">
-    <div style="flex:1;min-width:200px;">
-      <svg width="80" height="80" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
-        <rect x="18" y="8" width="28" height="48" rx="6" fill="#F4F8FF" stroke="#2B6CB0" stroke-width="1.6"/>
-        <rect x="24" y="12" width="16" height="28" rx="4" fill="#FFF"/>
-        <rect x="24" y="40" width="16" height="8" rx="2" fill="#E53E3E" />
-      </svg>
-      <p><a href="https://en.wikipedia.org/wiki/Digital_polymerase_chain_reaction"><strong>Digital PCR:</strong></a> very sensitive; detects tiny RNA amounts</p>
-    </div>
-    <div style="flex:1;min-width:200px;">
-      <svg width="80" height="80" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
-        <rect x="18" y="8" width="28" height="48" rx="6" fill="#FFF7ED" stroke="#DD6B20" stroke-width="1.6"/>
-        <rect x="24" y="12" width="16" height="28" rx="4" fill="#FFF"/>
-      </svg>
-      <p><a href="https://nanostring.com/products/ncounter-analysis-system/ncounter-systems-overview/"><strong>NanoString nCounter:</strong></a> measures many markers at once; reproducible; used in diagnostics</p>
-    </div>
-  </div>
-</div>
-```
+## 🌟 Goal
+
+To establish a "Precision Obstetrics" framework by developing a multi-modal data warehouse and agentic AI systems that translate genomic, transcriptomic, methylomic, proteomic and metabolomic data to identify early complicated pregnancies.
+
+
+## 🧪 Why Is It Necessary?
+
+Currently, many pregnancy complications are only found when they are already serious and difficult to treat. By spotting these risks much earlier, we can provide mothers with the right care at the right time, keeping both them and their babies safe from harm.
 
 ## 👩‍🍼 Why This Matters
 
@@ -58,23 +55,6 @@ Women with lived experience of pregnancy complications help us:
 
 Their voices guide the direction of the project.
 
-## 📅 Workflow
-
-<svg width="100%" height="100" viewBox="0 0 800 80" xmlns="http://www.w3.org/2000/svg">
-  <rect x="10" y="20" width="120" height="40" rx="6" fill="#E6F6FF" stroke="#2B6CB0"/> <text x="70" y="45" font-size="15" text-anchor="middle" fill="#2B6CB0">Discovery</text>
-  <polygon points="140,40 160,30 160,50" fill="#2B6CB0" />
-  <rect x="160" y="20" width="140" height="40" rx="6" fill="#FFF7ED" stroke="#DD6B20"/> <text x="230" y="45" font-size="15" text-anchor="middle" fill="#DD6B20">Assay Development</text>
-  <polygon points="300,40 320,30 320,50" fill="#DD6B20" />
-  <rect x="320" y="20" width="160" height="40" rx="6" fill="#FFF5F7" stroke="#C53069"/> <text x="400" y="45" font-size="15" text-anchor="middle" fill="#C53069">Clinical Validation</text>
-  <polygon points="480,40 500,30 500,50" fill="#C53069" />
-  <rect x="500" y="20" width="200" height="40" rx="6" fill="#F7FFF0" stroke="#48BB78"/> <text x="600" y="45" font-size="15" text-anchor="middle" fill="#48BB78">Implementation & Testing</text>
-</svg>
-<p style="font-size:15px;color:#333;margin-top:15px">High-level workflow from discovery to deployment.</p>
-
-## 🌟 Goal
-
-To develop a simple, reliable blood test that identifies pregnancies at higher risk early enough to make a real difference.
-
 ## 🎥 Watch Our Webinar
 
 Below is a short webinar-style presentation explaining the project and how you can get involved.
@@ -89,7 +69,7 @@ Your opinions will help guide the direction of our work.
 👉 **[Click here to take the survey](https://forms.office.com/e/AYFbkgAYEU)**
 *(or scan the QR code below)*
 
-![QR code to survey](static/figure/QRCode for Feedback on Research Idea.png){width=400px}
+![QR code to survey](static/figure/QRCode for Feedback on Research Idea.png){#fig-qr-code width=400px fig-align="left"}
 
 All responses are anonymous and confidential.
 
@@ -106,4 +86,3 @@ If you have questions or would like to get involved further, please contact me a
 Sung Gong: 📧 **ssg29@cam.ac.uk**
 
 Thank you for your interest and support!
-

@@ -36,9 +36,9 @@ website:
     - icon: github
       menu:
         - text: Source Code
-          href: https://sung.github.io/cfRNA-PPIE
+          href: https://sung.github.io/POP-AI-PPIE
         - text: Report a Bug
-          href: https://sung.github.io/cfRNA-PPIE
+          href: https://sung.github.io/POP-AI-PPIE
 
 format:
   html:
@@ -51,6 +51,7 @@ format:
     code-fold: true
     code-tools: true
     highlight-style: gruvbox
+    fig-cap-location: bottom # default
 
 
 
