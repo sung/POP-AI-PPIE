@@ -37,9 +37,9 @@ website:
     - icon: github
       menu:
         - text: Source Code
-          href: https://sung.github.io/POP-AI-PPIE
+          href: https://github.com/sung/POP-AI-PPIE
         - text: Report a Bug
-          href: https://sung.github.io/POP-AI-PPIE
+          href: https://github.com/sung/POP-AI-PPIE
 
 format:
   html:
