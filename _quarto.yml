@@ -9,7 +9,8 @@ website:
   google-analytics: "G-RY5QNJQ2C6"
   cookie-consent: true
   twitter-card: true
-  site-url: https://x.com/sunggong
+  site-url: https://sung.github.io/POP-AI-PPIE
+  repo-url: https://github.com/sung/POP-AI-PPIE
   #creator: "@sunggong"
   #site: "@sunggong"
   open-graph: true
