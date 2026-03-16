@@ -1,0 +1,191 @@
+[
+  {
+    "objectID": "plan.html",
+    "href": "plan.html",
+    "title": "Patient and Public Involvement and Engagement (PPIE) Plan",
+    "section": "",
+    "text": "Patient and Public Involvement and Engagement (PPIE) ensures that research is relevant, transparent, and meaningful to the people it ultimately aims to help.\nThrough PPIE activities, members of the public can:\n\nShare their perspectives on the importance and acceptability of the research.\nHelp refine study design and priorities.\nImprove communication of scientific findings in plain language.\nEnsure that research outcomes are accessible and useful to families and clinicians.\n\nYour feedback will help shape how we design and communicate this research — from what questions we ask to how we share results."
+  },
+  {
+    "objectID": "plan.html#why-patient-and-public-involvement-and-engagement-ppie-matters",
+    "href": "plan.html#why-patient-and-public-involvement-and-engagement-ppie-matters",
+    "title": "Patient and Public Involvement and Engagement (PPIE) Plan",
+    "section": "",
+    "text": "Patient and Public Involvement and Engagement (PPIE) ensures that research is relevant, transparent, and meaningful to the people it ultimately aims to help.\nThrough PPIE activities, members of the public can:\n\nShare their perspectives on the importance and acceptability of the research.\nHelp refine study design and priorities.\nImprove communication of scientific findings in plain language.\nEnsure that research outcomes are accessible and useful to families and clinicians.\n\nYour feedback will help shape how we design and communicate this research — from what questions we ask to how we share results."
+  },
+  {
+    "objectID": "plan.html#purpose-of-ppie",
+    "href": "plan.html#purpose-of-ppie",
+    "title": "Patient and Public Involvement and Engagement (PPIE) Plan",
+    "section": "Purpose of PPIE",
+    "text": "Purpose of PPIE\nThis project aims to co-design and refine a research programme that uses cell-free RNA (cfRNA) biomarkers in maternal blood to predict placenta-related pregnancy complications such as preeclampsia and fetal growth restriction. Patient and public involvement will ensure that the research is shaped by the experiences, needs, and priorities of women and families, and that study materials are clear, acceptable, and sensitive to the challenges of complicated pregnancies."
+  },
+  {
+    "objectID": "plan.html#who-will-be-involved",
+    "href": "plan.html#who-will-be-involved",
+    "title": "Patient and Public Involvement and Engagement (PPIE) Plan",
+    "section": "Who will be involved",
+    "text": "Who will be involved\n\nWomen with lived experience of preeclampsia, fetal growth restriction, or other pregnancy complications.\nPregnant women (with and without complications) and their partners/family members.\nRepresentatives from charities and support groups (e.g., Action on Pre-eclampsia, Tommy’s).\nMembers of existing PPI panels from my host institution and local NHS Trust."
+  },
+  {
+    "objectID": "plan.html#proposed-activities",
+    "href": "plan.html#proposed-activities",
+    "title": "Patient and Public Involvement and Engagement (PPIE) Plan",
+    "section": "Proposed activities",
+    "text": "Proposed activities\n\nInitial workshop (n≈8–10 participants): To introduce the research concept, discuss acceptability of cfRNA testing, and co-design participant-facing materials (plain language summaries, recruitment leaflets, consent forms).\nFollow-up online survey (n≈30 participants): To gather wider perspectives on clarity, acceptability, and perceived benefits/risks of cfRNA-based prediction.\nOngoing involvement: Interested participants will be invited to join a PPIE advisory group, meeting biannually to provide feedback on study progress, dissemination plans, and public engagement activities."
+  },
+  {
+    "objectID": "plan.html#support-for-participants",
+    "href": "plan.html#support-for-participants",
+    "title": "Patient and Public Involvement and Engagement (PPIE) Plan",
+    "section": "Support for participants",
+    "text": "Support for participants\n\nReimbursement of expenses and recognition of time, in line with NIHR guidance.\nOnline participation to improve accessibility.\nSensitive facilitation and signposting to support resources (given potential for distress when discussing pregnancy complications)."
+  },
+  {
+    "objectID": "plan.html#how-feedback-will-be-used",
+    "href": "plan.html#how-feedback-will-be-used",
+    "title": "Patient and Public Involvement and Engagement (PPIE) Plan",
+    "section": "How feedback will be used",
+    "text": "How feedback will be used\n\nAdjusting the language and content of study materials to ensure they are understandable and supportive.\nInforming study design, especially around consent, recruitment, and communication of results.\nIdentifying potential barriers and enablers for participation in cfRNA research.\nGuiding communication strategies for dissemination to both the public and clinical audiences."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Pregancy Outcome Prediction (POP)-AI:Multi-modal agentic AI systems for precision obstetrics",
+    "section": "",
+    "text": "Hello, my name is Sung. I am a researcher at Cambridge university interested in AI/ML and applying to predicting pregnancy complications. I am planning a study and need the help of women and birthing people to shape the project."
+  },
+  {
+    "objectID": "index.html#what-is-this-research-about",
+    "href": "index.html#what-is-this-research-about",
+    "title": "Pregancy Outcome Prediction (POP)-AI:Multi-modal agentic AI systems for precision obstetrics",
+    "section": "🔍 What Is This Research About?",
+    "text": "🔍 What Is This Research About?\nThis proposed study will look at how we can use advanced computer intelligence to understand the complex biological signals in a mother’s body very early in pregnancy. I want to find better ways to predict health issues like pre-eclampsia and fetal growth restriction before they become an emergency, giving families peace of mind."
+  },
+  {
+    "objectID": "index.html#what-am-i-going-to-to",
+    "href": "index.html#what-am-i-going-to-to",
+    "title": "Pregancy Outcome Prediction (POP)-AI:Multi-modal agentic AI systems for precision obstetrics",
+    "section": "🔧 What Am I Going to To?",
+    "text": "🔧 What Am I Going to To?\nI will be developing a smart “team” of AI programs called POP-AI that acts as a digital specialist for pregnancy health. It combines different types of biological data—like blood tests and genetics—to give doctors a clear, reasoned explanation of a pregnancy’s health status.\n\n\n\n\n\n\nFigure 1: POP-AI study design"
+  },
+  {
+    "objectID": "index.html#workflow",
+    "href": "index.html#workflow",
+    "title": "Pregancy Outcome Prediction (POP)-AI:Multi-modal agentic AI systems for precision obstetrics",
+    "section": "📅 Workflow",
+    "text": "📅 Workflow\n\n\n\n\n Discovery (POPS cohort)   Data Integration   POP-AI    Validation (POPS2)\n\n\n\nFigure 2: High-level workflow from discovery to deployment"
+  },
+  {
+    "objectID": "index.html#goal",
+    "href": "index.html#goal",
+    "title": "Pregancy Outcome Prediction (POP)-AI:Multi-modal agentic AI systems for precision obstetrics",
+    "section": "🌟 Goal",
+    "text": "🌟 Goal\nTo establish a “Precision Obstetrics” framework by developing a multi-modal data warehouse and agentic AI systems that translate genomic, transcriptomic, methylomic, proteomic and metabolomic data to identify early complicated pregnancies."
+  },
+  {
+    "objectID": "index.html#why-is-it-necessary",
+    "href": "index.html#why-is-it-necessary",
+    "title": "Pregancy Outcome Prediction (POP)-AI:Multi-modal agentic AI systems for precision obstetrics",
+    "section": "🧪 Why Is It Necessary?",
+    "text": "🧪 Why Is It Necessary?\nCurrently, many pregnancy complications are only found when they are already serious and difficult to treat. By spotting these risks much earlier, we can provide mothers with the right care at the right time, keeping both them and their babies safe from harm."
+  },
+  {
+    "objectID": "index.html#why-this-matters",
+    "href": "index.html#why-this-matters",
+    "title": "Pregancy Outcome Prediction (POP)-AI:Multi-modal agentic AI systems for precision obstetrics",
+    "section": "👩‍🍼 Why This Matters",
+    "text": "👩‍🍼 Why This Matters\nEarly identification means closer monitoring, personalised care, and better outcomes for mothers and babies."
+  },
+  {
+    "objectID": "index.html#how-are-patients-and-the-public-involved",
+    "href": "index.html#how-are-patients-and-the-public-involved",
+    "title": "Pregancy Outcome Prediction (POP)-AI:Multi-modal agentic AI systems for precision obstetrics",
+    "section": "🤝 How Are Patients and the Public Involved?",
+    "text": "🤝 How Are Patients and the Public Involved?\nWomen with lived experience of pregnancy complications help us:\n\nshape the research questions,\nreview information materials,\ndesign how results are shared,\nensure the test is acceptable and useful,\n\nTheir voices guide the direction of the project."
+  },
+  {
+    "objectID": "index.html#watch-our-webinar",
+    "href": "index.html#watch-our-webinar",
+    "title": "Pregancy Outcome Prediction (POP)-AI:Multi-modal agentic AI systems for precision obstetrics",
+    "section": "🎥 Watch Our Webinar",
+    "text": "🎥 Watch Our Webinar\nBelow is a short webinar-style presentation explaining the project and how you can get involved."
+  },
+  {
+    "objectID": "index.html#take-part-in-our-ppie-survey",
+    "href": "index.html#take-part-in-our-ppie-survey",
+    "title": "Pregancy Outcome Prediction (POP)-AI:Multi-modal agentic AI systems for precision obstetrics",
+    "section": "🗳️ Take Part in Our PPIE Survey",
+    "text": "🗳️ Take Part in Our PPIE Survey\nI would like to invite members of public, especially parents and expectant mothers, to take part in our short online survey. Your opinions will help guide the direction of our work.\n👉 Click here to take the survey (or scan the QR code below)\n\n\n\n\n\n\nFigure 3: QR code to survey\n\n\n\nAll responses are anonymous and confidential.\nYour voices and experiences are essential:\n\nReflects real needs and priorities of expectant families.\nUses language and outcomes that are understandable and meaningful.\nRespects the values and concerns of those directly affected by pregnancy complications.\nLeads to better communication between researchers, clinicians, and families."
+  },
+  {
+    "objectID": "index.html#contact",
+    "href": "index.html#contact",
+    "title": "Pregancy Outcome Prediction (POP)-AI:Multi-modal agentic AI systems for precision obstetrics",
+    "section": "Contact",
+    "text": "Contact\nIf you have questions or would like to get involved further, please contact me at: Sung Gong: 📧 ssg29@cam.ac.uk\nThank you for your interest and support!"
+  },
+  {
+    "objectID": "placenta.html",
+    "href": "placenta.html",
+    "title": "Understanding the Placenta and Pregnancy Complications",
+    "section": "",
+    "text": "The placenta is a temporary organ that develops during pregnancy.\nIt connects the mother and baby, supplying oxygen and nutrients to the fetus and removing waste products.\nBeyond being a nutrient bridge, the placenta also plays critical roles in:\n\nHormone production (e.g. hCG, progesterone, leptin)\nImmune protection of the fetus\nRegulation of fetal growth and development\n\nWhen the placenta does not form or function properly, it can lead to a range of pregnancy complications."
+  },
+  {
+    "objectID": "placenta.html#what-is-the-placenta",
+    "href": "placenta.html#what-is-the-placenta",
+    "title": "Understanding the Placenta and Pregnancy Complications",
+    "section": "",
+    "text": "The placenta is a temporary organ that develops during pregnancy.\nIt connects the mother and baby, supplying oxygen and nutrients to the fetus and removing waste products.\nBeyond being a nutrient bridge, the placenta also plays critical roles in:\n\nHormone production (e.g. hCG, progesterone, leptin)\nImmune protection of the fetus\nRegulation of fetal growth and development\n\nWhen the placenta does not form or function properly, it can lead to a range of pregnancy complications."
+  },
+  {
+    "objectID": "placenta.html#preeclampsia",
+    "href": "placenta.html#preeclampsia",
+    "title": "Understanding the Placenta and Pregnancy Complications",
+    "section": "Preeclampsia",
+    "text": "Preeclampsia\nPreeclampsia is a serious pregnancy condition characterized by high blood pressure and protein in the urine after 20 weeks of gestation.\nIt affects around 5–8% of pregnancies and can cause serious health problems for both mother and baby.\nKey facts:\n\nOften associated with abnormal placental development and blood flow.\n\nMay cause symptoms such as headaches, swelling, or visual changes.\n\nIn severe cases, it can lead to seizures, organ failure, or stillbirth.\n\nThe only definitive cure is delivery of the baby and placenta.\n\nEarly detection is therefore essential — and one goal of cfRNA biomarker research is to identify high-risk pregnancies before symptoms appear."
+  },
+  {
+    "objectID": "placenta.html#fetal-growth-restriction-fgr",
+    "href": "placenta.html#fetal-growth-restriction-fgr",
+    "title": "Understanding the Placenta and Pregnancy Complications",
+    "section": "Fetal Growth Restriction (FGR)",
+    "text": "Fetal Growth Restriction (FGR)\nFetal Growth Restriction (FGR) occurs when a baby is smaller than expected for gestational age due to inadequate nutrient or oxygen supply from the placenta.\nWhy it matters:\n\nFGR increases the risk of stillbirth and long-term developmental issues.\n\nIt often overlaps with preeclampsia and other placental dysfunctions.\n\nEarly identification allows closer monitoring and timely delivery when necessary."
+  },
+  {
+    "objectID": "placenta.html#gestational-diabetes-mellitus-gdm",
+    "href": "placenta.html#gestational-diabetes-mellitus-gdm",
+    "title": "Understanding the Placenta and Pregnancy Complications",
+    "section": "Gestational Diabetes Mellitus (GDM)",
+    "text": "Gestational Diabetes Mellitus (GDM)\nGestational diabetes is a type of diabetes that develops during pregnancy.\nIt happens when the body cannot produce enough insulin to meet the increased demands of pregnancy.\nKey points:\n\nUsually occurs in the second or third trimester.\n\nCan cause babies to grow too large (macrosomia), leading to birth complications.\n\nMay increase the risk of preeclampsia and cesarean delivery.\n\nWomen with GDM are more likely to develop type 2 diabetes later in life.\n\nAlthough GDM is primarily a metabolic disorder, it also affects placental function — highlighting how maternal metabolism and placenta health are closely linked."
+  },
+  {
+    "objectID": "placenta.html#why-study-cell-free-rnas",
+    "href": "placenta.html#why-study-cell-free-rnas",
+    "title": "Understanding the Placenta and Pregnancy Complications",
+    "section": "Why Study Cell-free RNAs?",
+    "text": "Why Study Cell-free RNAs?\nCell-free RNAs (cfRNAs) are fragments of RNA released from cells into the blood.\nDuring pregnancy, some cfRNAs originate from the placenta and can reflect how it is functioning.\nBy studying cfRNAs, we can:\n\nDetect early signs of placental stress or dysfunction.\n\nPredict complications before clinical symptoms appear.\n\nPotentially guide personalized monitoring and interventions.\n\nThis line of research brings us closer to non-invasive prediction tools that could save lives and improve outcomes for mothers and babies."
+  },
+  {
+    "objectID": "placenta.html#learn-more",
+    "href": "placenta.html#learn-more",
+    "title": "Understanding the Placenta and Pregnancy Complications",
+    "section": "Learn More",
+    "text": "Learn More\nYou can find more information and updates on the research through:\n\nCell-free RNAs published in Nature Communications in 2025\nPlacenta transcriptome paper published in Nature Communications in 2021\nAn interactive placenta transcriptome website\n\nI have been involved with some previous public engagement activities such as:\n\nCambridge Festival 2021: “Pregnancy – a nine-month phone call”\nCambridge Science Festival 2020: “It takes 3 to Tango: Key players for a successful pregnancy”"
+  },
+  {
+    "objectID": "webinar.html",
+    "href": "webinar.html",
+    "title": "",
+    "section": "",
+    "text": "Code\n\n\n\n\n\nfoo"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  }
+]
