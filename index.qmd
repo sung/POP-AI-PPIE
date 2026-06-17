@@ -13,7 +13,7 @@ This proposed study will look at how we can use advanced computer intelligence t
 
 I will be developing a smart "team" of AI programs called **POP-AI** that acts as a digital specialist for pregnancy health. It combines different types of biological data—like blood tests and genetics—to give doctors a clear, reasoned explanation of a pregnancy's health status.
 
-![POP-AI study design](static/figure/Fig1.POP-AI.design.png){#fig-study-design}
+![POP-AI study design](static/figure/Fig1.POP-AI.design 2.png){#fig-study-design}
 
 ## 📅 Workflow
 
